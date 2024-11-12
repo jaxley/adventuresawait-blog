@@ -1,6 +1,6 @@
 {
-    "name": "The Truth Imperative",
-    "short_name": "The Truth Imperative",
+    "name": "Adventures Await!",
+    "short_name": "Adventures Await!",
     "icons": [
         {
             "src": "/images/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#1773cf",
-    "background_color": "#1773cf",
+    "theme_color": "#6e705c",
+    "background_color": "#6e705c",
     "display": "standalone"
 }
