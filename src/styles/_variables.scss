@@ -6,16 +6,17 @@ $baseSize: 16px;
 
 // Base colors
 
-$baseHue: 179; // 222;
+$baseHue: 66.59;
 
-$baseColor: hsl($baseHue, 36%, 50%);
-$white: hsl($baseHue, 30%, 78%);
-$black: hsl($baseHue, 5%, 19%);
+$baseColor: hsl($baseHue, 100%, 50%);
+$white: hsl($baseHue, 10%, 40%);
+$black: hsl($baseHue, 5%, 19.3%);
 
 // Fonts
 
 $baseSerifFontStack: ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;
 $serifFontFamily: 'Merriweather', $baseSerifFontStack;
+$headerFontFamily: 'Fontdiner Swanky', $baseSerifFontStack;
 $serifBoldFontFamily: 'Merriweather Bold', $baseSerifFontStack;
 $serifItalicFontFamily: 'Merriweather Italic', $baseSerifFontStack;
 $serifBoldItalicFontFamily: 'Merriweather Bold Italic', $baseSerifFontStack;
@@ -63,7 +64,7 @@ $longTransitionTime: 0.2s;
   --serif-bold-italic-font-family: #{$serifBoldItalicFontFamily};
   --arial-font-family: #{$arialFamily};
   --emoji-font-family: #{$emojiFontFamily};
-  --heading-font-family: #{$sansSerifFontFamily};
+  --heading-font-family: #{$headerFontFamily};
   --read-more-hover-color: #{$white};
   --base-color: #{$baseColor};
   --default-transition-time: #{$defaultTransitionTime};

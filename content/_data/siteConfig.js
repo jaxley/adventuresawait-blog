@@ -9,16 +9,16 @@ module.exports = {
     // OpenGraph tags and feeds.
     // Can also be used anywhere on the site as a Nunjucks variable:
     // {{ siteConfig.site.logo }}
-    title: 'The Truth Imperative',
+    title: 'Adventures Await!',
     // Site description. Used in many places, including meta title,
     // OpenGraph tags and feeds.
     // It is also used as a fallback description if no custom description
     // is provided for a page / post.
-    description: 'SECURITY * POLITICS * SCIENCE * TECHNOLOGY * FREEDOM * MUSIC',
+    description: 'TODO',
     // Production URL. Used by 'alwaysProductionUrl' filter.
     // If none is provided, relative paths will be used
     // and in some cases (like sitemap.xml) that is TOTALLY NOT what you want
-    url: process.env.URL || 'https://truthimperative.axley.net/',
+    url: process.env.URL || 'https://adventuresawait.axley.net/',
     // Image used as a site logo. If none is provided, site title as text
     // will be displayed as fallback.
     // If you opt for text fallback, you may want to adjust
@@ -71,7 +71,7 @@ module.exports = {
     name: 'Jason Axley',
     // Your website URL. Used in the footer. Optional.
     // Doesn't have to be the same link as this site
-    url: 'https://truthimperative.axley.net',
+    url: 'https://adventuresawait.axley.net',
     // Your fediverse links (e.g. Mastodon). You can provide more than one.
     // For the first account in this array your site will generate
     // .well-known/webfinger file for you so that you'll be searchable
@@ -120,7 +120,7 @@ module.exports = {
     // edit content/_data/utils/og-image.njk
     enableImageGeneration: false,
     // Background color for auto-generated OpenGraph images
-    ogImageBackgroundColor: '##6ab9b8',
+    ogImageBackgroundColor: '#6e705c',
     // Text color for for auto-generated OpenGraph images
     ogImageTextColor: '#999',
   },
@@ -154,10 +154,10 @@ module.exports = {
     language: 'en-US',
     // Default theme color for PWA application. Affects how the OS displays
     // the site
-    themeColor: '#6ab9b8',
+    themeColor: '#6e705c',
     // Placeholder background color for the application page to display
     // before its stylesheet is loaded
-    backgroundColor: '#6ab9b8',
+    backgroundColor: '#6e705c',
   },
   // ---------------------------------------------------------------------------
   // Settings for post share buttons
