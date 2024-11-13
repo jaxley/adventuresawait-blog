@@ -11,14 +11,15 @@ url: /2017/07/brestova-croatia-one-of-nicest-ferry.html
 aliases:
   - Brestova-croatia-one-of-the-nicest-ferry-terminals-anywhere
 linter-yaml-title-alias: Brestova-croatia-one-of-the-nicest-ferry-terminals-anywhere
+image:
+  src: /Pasted image 20241112165037.png
 ---
 
-[![](https://lh3.googleusercontent.com/--P4n97UbEAA/WWFRwfgM4_I/AAAAAAAD0ek/71oHhNyG_HUv9deRUDrr2eEsFG3Co1WqQCHMYCw/%255BUNSET%255D cursor: pointer;)](https://lh3.googleusercontent.com/--P4n97UbEAA/WWFRwfgM4_I/AAAAAAAD0ek/71oHhNyG_HUv9deRUDrr2eEsFG3Co1WqQCHMYCw/%255BUNSET%255D)
+![](/82b42af9a5c83884aa5d64acd582fc67_MD5.jpeg)
 
 An adjacent beach with warm, crystal-clear water makes having to wait for the ferry not so bad.  We were roasting, so it felt great to cool off after the drive. And tasty pizza at the restaurant was an added bonus!
 
 Had an hour-long, white-knuckle drive to our campsite on the island of Cres after the short ferry ride.  A giant wasp flying into the window while I was driving didn't help either.
 
-[![](https://lh3.googleusercontent.com/-OnyThIgn9PQ/WWFRxX7xVKI/AAAAAAAD0eo/i1TSZ1xe1MMQsMGK74ranuOsGhPENdiawCHMYCw/%255BUNSET%255D cursor: pointer;)](https://lh3.googleusercontent.com/-OnyThIgn9PQ/WWFRxX7xVKI/AAAAAAAD0eo/i1TSZ1xe1MMQsMGK74ranuOsGhPENdiawCHMYCw/%255BUNSET%255D)
-
+![](/61b38f79a0519932c2f0e298dd99a0e0_MD5.jpeg)
 Glad to finally be in one place for the near future. Lots of Adriatic coast to explore in the coming days.
