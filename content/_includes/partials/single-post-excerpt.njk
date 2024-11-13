@@ -7,6 +7,10 @@
       <h2 class="post-title">{{ post.data.title }}</h2>
     </header>
     <div class="excerpt"> 
+      {% if post.data.image %}
+      <div class="top-image">
+      <img src="{{ post.data.image.src }}" alt="{{ imageAlt }}" />
+      {% endif %}
       {% excerpt post %}
     </div>
     <div class="post-meta">
